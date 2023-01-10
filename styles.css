@@ -11,6 +11,10 @@ background-image: url('images_all/background.png');
 text-align: center;
 }
 
+a{
+    text-decoration: none;
+}
+
 .header {
 background-color: rgba(3, 160, 160, 0.199);
 color: white;
